@@ -15,7 +15,7 @@ const Page = () => {
           <img
             src="hero-ui-v5.webp"
             alt=""
-            className="object-cover w-full h-full mask-b-from-30% to-40 "
+            className="object-cover w-full h-full"
           />
         </div>
       </div>
